@@ -20,8 +20,8 @@ Features
 * Provides curated learning resources for career advancement.
 
 **User & Admin Sections:**
-* Users: Upload resumes, receive scores, and access recommendations 
-* Admin: Manages recommendations and tracks usage trends
+* Users: Upload resumes, receive scores, and access recommendations.
+* Admin: Manages recommendations and tracks usage trends.
 
 How It Works?
 ---------------------
