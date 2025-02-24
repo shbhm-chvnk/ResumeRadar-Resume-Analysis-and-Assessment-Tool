@@ -1,6 +1,6 @@
 ResumeRadar - Resume Analysis and Assessment Tool
 =================================================
-ResumeRadar is an intelligent resume analysis system that evaluates resumes and provides personalized feedback to enhance candidates' chances of selection. By leveraging Natural Language Processing (NLP), it extracts relevant information, assigns a resume score, and offers career recommendations, skill enhancement suggestions, and course recommendations to improve job prospects.
+**ResumeRadar** is an intelligent resume analysis system that evaluates resumes and provides personalized feedback to enhance candidates' chances of selection. By leveraging Natural Language Processing (NLP), it extracts relevant information, assigns a resume score, and offers career recommendations, skill enhancement suggestions, and course recommendations to improve job prospects.
 
 Features
 --------
